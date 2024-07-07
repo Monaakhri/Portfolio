@@ -1,9 +1,6 @@
 body {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-
-/* Navigation Bar */
-
 #home {
   background-color:  #7600bc;
   padding-bottom: 1cm;
@@ -52,9 +49,6 @@ body {
   margin-right: 10px;
   float:left;
 }
-
-/* Titles */
-
 h2 {
   text-align: justify;
   font-size: 50px;
@@ -77,9 +71,6 @@ h2 {
   animation-duration: 5s;
   position: relative;
 }
-
-/* Used in the About Me sections */
-
 .container {
   display: flex;
 }
@@ -109,8 +100,6 @@ h2 {
   vertical-align: middle;
   margin: 5px;
 }
-
-/* Skills */
 
 .all_skills {
   display: flex;
@@ -156,9 +145,6 @@ h2 {
   align-items: center;
   justify-content: center;
 }
-
-/* Projects */
-
 .projects-container {
   margin-top: 30px;
   margin-left: 60px;
@@ -184,9 +170,6 @@ h2 {
   font-size: 20px;
   margin-left: 30px;
 }
-
-/* Recommendations */
-
 .all_recommendations {
   display: flex;
   align-items: center;
@@ -216,9 +199,6 @@ h2 {
   font-size: 20px;
   font-family: 'Times New Roman', Times, serif;
 }
-
-/* Scroll to Top Button */
-
 .iconbutton{
   width: 48px;
   height: 48px;
@@ -232,9 +212,6 @@ h2 {
   bottom: 3%;
   cursor: pointer;
 }
-
-/* Form Pop-up */
-
 .popup {
   width:400px;
   background-color: #e8bcf0;
@@ -276,9 +253,6 @@ h2 {
   cursor: pointer;
   margin-left: 25%;
 }
-
-/* Recommendation Form */
-
 input, textarea {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
   margin: 10px;  
@@ -295,9 +269,6 @@ fieldset {
   border: thin solid white;
   width: 50%;
 }
-
-/* Buttons */
-
 button {
   background-color: #fff;
   border: 1px solid #7600bc;
